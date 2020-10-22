@@ -1,43 +1,53 @@
  [
         {
             "name": "Improve Mental Health",
-            "url": "https://sadgurupodcast.netlify.app/Podcast/y2mate.com%20-%205%20Tips%20to%20Improve%20your%20Mental%20Health.mp3"
+            "url": "https://sadgurupodcast.netlify.app/Podcast/y2mate.com%20-%205%20Tips%20to%20Improve%20your%20Mental%20Health.mp3",
+            "photo":"https://sadgurupodcast.netlify.app/photo/hqdefault%20(1).jpg"
+            
             
         },
         {
             "name": "Fasting Can Purify Your Body",
             "url": "https://sadgurupodcast.netlify.app/Podcast/y2mate.com%20-%20Fasting%20on%20this%20Day%20Can%20Purify%20the%20Body%20%E2%80%93%20Sadhguru.mp3"
+            ,
+            "photo":"https://sadgurupodcast.netlify.app/photo/hqdefault%20(2).jpg"
         
         },
         {
             "name": "Discussion With Daughter",
             "url": "https://sadgurupodcast.netlify.app/Podcast/y2mate.com%20-%20Sadhguru%20Discusses%20Ancient%20Mysteries%20with%20his%20Daughter.mp3"
+            ,
+            "photo":"https://sadgurupodcast.netlify.app/photo/hqdefault%20(3).jpg"
             
         },
         {
             "name": "Spiritual America Never Seen Before",
             "url": "https://sadgurupodcast.netlify.app/Podcast/y2mate.com%20-%20Spiritual%20America%20As%20Never%20Seen%20Before.mp3"
+            ,
+            "photo":"https://sadgurupodcast.netlify.app/photo/hqdefault%20(4).jpg"
             
         },
         {
             "name": "The Amazing Power of Your Mind",
             "url": "https://sadgurupodcast.netlify.app/Podcast/y2mate.com%20-%20The%20Amazing%20Power%20of%20Your%20Mind%20(1).mp3"
+            ,
+            "photo":"https://sadgurupodcast.netlify.app/photo/hqdefault%20(5).jpg"
             
         },
         {
             "name": "Secret Language of Birds",
             "url": "https://sadgurupodcast.netlify.app/Podcast/y2mate.com%20-%20The%20Secret%20Language%20of%20Birds%20%E2%80%93%20Sadhguru%20Exclusive%20Preview.mp3"
+            ,
+            "photo":"https://sadgurupodcast.netlify.app/photo/hqdefault%20(6).jpg"
             
         },
         {
             "name": "Fasting on this Day Can Purify the Body",
-            "url": "https://sadgurupodcast.netlify.app/Podcast/y2mate.com - Village Boy to Global Scientist_ An Inspiring Story - Dr. Abdul Kalam (1).mp3"
-            
-        },
-        {
-            "name": "5 Tips to Improve your Mental Health",
-            "url": "https://sadgurupodcast.netlify.app/Podcast/"
+            "url": "https://sadgurupodcast.netlify.app/Podcast/y2mate.com%20-%20Village%20Boy%20to%20Global%20Scientist_%20An%20Inspiring%20Story%20-%20Dr.%20Abdul%20Kalam%20(1).mp3"
+            ,
+            "photo":"https://sadgurupodcast.netlify.app/photo/hqdefault%20(7).jpg"
             
         }
+       
        
     ]
